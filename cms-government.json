@@ -1,0 +1,290 @@
+[
+  {
+    "ezui-cms": "G-Page-Wrapper",
+    "content": "",
+    "styles": {
+      "backgroundColor": "#ffffff",
+      "fontFamily": "'Inter', -apple-system, sans-serif",
+      "color": "#1e293b",
+      "minHeight": "100vh"
+    }
+  },
+  {
+    "ezui-cms": "G-Header",
+    "content": "",
+    "styles": {
+      "backgroundColor": "#ffffff",
+      "borderBottom": "1px solid #e2e8f0",
+      "padding": "1rem 2rem",
+      "display": "flex",
+      "justifyContent": "space-between",
+      "alignItems": "center",
+      "position": "sticky",
+      "top": "0",
+      "zIndex": "100"
+    }
+  },
+  {
+    "ezui-cms": "G-Logo-Container",
+    "content": "",
+    "styles": {
+      "display": "flex",
+      "alignItems": "center",
+      "gap": "1rem"
+    }
+  },
+  {
+    "ezui-cms": "G-Logo-Symbol",
+    "content": "🏛️",
+    "styles": {
+      "fontSize": "1.5rem"
+    }
+  },
+  {
+    "ezui-cms": "G-Logo-Text",
+    "content": "Official Government Portalll",
+    "styles": {
+      "fontWeight": "700",
+      "color": "#1e3a8a",
+      "fontSize": "1.25rem"
+    }
+  },
+  {
+    "ezui-cms": "G-Nav",
+    "content": "",
+    "styles": {
+      "display": "flex",
+      "gap": "2rem"
+    }
+  },
+  {
+    "ezui-cms": "G-Nav-Item-1",
+    "content": "Services",
+    "styles": {
+      "fontWeight": "500",
+      "color": "#64748b",
+      "cursor": "pointer"
+    }
+  },
+  {
+    "ezui-cms": "G-Nav-Item-2",
+    "content": "Transparency",
+    "styles": {
+      "fontWeight": "500",
+      "color": "#64748b",
+      "cursor": "pointer"
+    }
+  },
+  {
+    "ezui-cms": "G-Nav-Item-3",
+    "content": "Education",
+    "styles": {
+      "fontWeight": "500",
+      "color": "#64748b",
+      "cursor": "pointer"
+    }
+  },
+  {
+    "ezui-cms": "G-Hero",
+    "content": "",
+    "styles": {
+      "backgroundColor": "#f8fafc",
+      "padding": "4rem 2rem",
+      "textAlign": "center"
+    }
+  },
+  {
+    "ezui-cms": "G-Hero-Badge",
+    "content": "Latest Updates: Infrastructure Bill Passed",
+    "styles": {
+      "display": "inline-block",
+      "padding": "0.5rem 1rem",
+      "backgroundColor": "#dbeafe",
+      "color": "#1e40af",
+      "borderRadius": "9999px",
+      "fontSize": "0.875rem",
+      "fontWeight": "600",
+      "marginBottom": "1.5rem"
+    }
+  },
+  {
+    "ezui-cms": "G-Hero-Title",
+    "content": "Building a Better Future Together",
+    "styles": {
+      "fontSize": "3.5rem",
+      "fontWeight": "800",
+      "color": "#0f172a",
+      "marginBottom": "1rem",
+      "lineHeight": "1.2"
+    }
+  },
+  {
+    "ezui-cms": "G-Hero-Subtitle",
+    "content": "Access essential citizen services, tracking developments, and government transparency tools in one place.",
+    "styles": {
+      "fontSize": "1.25rem",
+      "color": "#475569",
+      "maxWidth": "800px",
+      "margin": "0 auto 2.5rem"
+    }
+  },
+  {
+    "ezui-cms": "G-Hero-CTA",
+    "content": "Register for Updates",
+    "styles": {
+      "backgroundColor": "#1e3a8a",
+      "color": "#ffffff",
+      "padding": "1rem 2rem",
+      "borderRadius": "8px",
+      "fontWeight": "600",
+      "border": "none",
+      "cursor": "pointer",
+      "fontSize": "1.1rem"
+    }
+  },
+  {
+    "ezui-cms": "G-Section-Services-Title",
+    "content": "Citizen Services",
+    "styles": {
+      "fontSize": "2rem",
+      "fontWeight": "700",
+      "textAlign": "center",
+      "margin": "4rem 0 2rem"
+    }
+  },
+  {
+    "ezui-cms": "G-Services-Grid",
+    "content": "",
+    "styles": {
+      "display": "grid",
+      "gridTemplateColumns": "repeat(auto-fit, minmax(250px, 1fr))",
+      "gap": "2rem",
+      "padding": "0 2rem",
+      "maxWidth": "1200px",
+      "margin": "0 auto"
+    }
+  },
+  {
+    "ezui-cms": "G-Service-Card-1",
+    "content": "",
+    "styles": {
+      "padding": "1.5rem",
+      "borderRadius": "12px",
+      "backgroundColor": "#ffffff",
+      "border": "1px solid #e2e8f0",
+      "transition": "transform 0.2s"
+    }
+  },
+  {
+    "ezui-cms": "G-Service-Icon-1",
+    "content": "📄",
+    "styles": { "fontSize": "2rem", "marginBottom": "1rem" }
+  },
+  {
+    "ezui-cms": "G-Service-Title-1",
+    "content": "Digital IDs",
+    "styles": { "fontWeight": "700", "marginBottom": "0.5rem" }
+  },
+  {
+    "ezui-cms": "G-Service-Desc-1",
+    "content": "Apply for or renew your state-issued identification documents online.",
+    "styles": { "color": "#64748b", "fontSize": "0.875rem" }
+  },
+  {
+    "ezui-cms": "G-Service-Card-2",
+    "content": "",
+    "styles": {
+      "padding": "1.5rem",
+      "borderRadius": "12px",
+      "backgroundColor": "#ffffff",
+      "border": "1px solid #e2e8f0"
+    }
+  },
+  {
+    "ezui-cms": "G-Service-Icon-2",
+    "content": "🏥",
+    "styles": { "fontSize": "2rem", "marginBottom": "1rem" }
+  },
+  {
+    "ezui-cms": "G-Service-Title-2",
+    "content": "Healthcare Portal",
+    "styles": { "fontWeight": "700", "marginBottom": "0.5rem" }
+  },
+  {
+    "ezui-cms": "G-Service-Desc-2",
+    "content": "Access medical records, book vaccines, and check insurance eligibility.",
+    "styles": { "color": "#64748b", "fontSize": "0.875rem" }
+  },
+  {
+    "ezui-cms": "G-Service-Card-3",
+    "content": "",
+    "styles": {
+      "padding": "1.5rem",
+      "borderRadius": "12px",
+      "backgroundColor": "#ffffff",
+      "border": "1px solid #e2e8f0"
+    }
+  },
+  {
+    "ezui-cms": "G-Service-Icon-3",
+    "content": "🚆",
+    "styles": { "fontSize": "2rem", "marginBottom": "1rem" }
+  },
+  {
+    "ezui-cms": "G-Service-Title-3",
+    "content": "Public Transport",
+    "styles": { "fontWeight": "700", "marginBottom": "0.5rem" }
+  },
+  {
+    "ezui-cms": "G-Service-Desc-3",
+    "content": "Real-time updates, ticket booking, and route planning for all regions.",
+    "styles": { "color": "#64748b", "fontSize": "0.875rem" }
+  },
+  {
+    "ezui-cms": "G-Footer",
+    "content": "",
+    "styles": {
+      "backgroundColor": "#0f172a",
+      "color": "#94a3b8",
+      "padding": "4rem 2rem",
+      "marginTop": "4rem"
+    }
+  },
+  {
+    "ezui-cms": "G-Footer-Grid",
+    "content": "",
+    "styles": {
+      "display": "grid",
+      "gridTemplateColumns": "repeat(auto-fit, minmax(200px, 1fr))",
+      "gap": "3rem",
+      "maxWidth": "1200px",
+      "margin": "0 auto"
+    }
+  },
+  {
+    "ezui-cms": "G-Footer-Section-1-Title",
+    "content": "Contact Us",
+    "styles": { "color": "#ffffff", "fontWeight": "600", "marginBottom": "1.5rem" }
+  },
+  {
+    "ezui-cms": "G-Footer-Link-1",
+    "content": "Support Desk",
+    "styles": { "display": "block", "marginBottom": "0.5rem" }
+  },
+  {
+    "ezui-cms": "G-Footer-Link-2",
+    "content": "Find an Office",
+    "styles": { "display": "block", "marginBottom": "0.5rem" }
+  },
+  {
+    "ezui-cms": "G-Footer-Bottom",
+    "content": "© 2026 Government Administration. All Rights Reserved.",
+    "styles": {
+      "textAlign": "center",
+      "marginTop": "4rem",
+      "paddingTop": "2rem",
+      "borderTop": "1px solid #334155",
+      "fontSize": "0.875rem"
+    }
+  }
+]
